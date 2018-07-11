@@ -1,59 +1,59 @@
 # Sugestões de Temas - Julho 2018
 
-Repositório de temas para a criação de posts e talks na comunidade Android.
+Repositório de temas para criação de posts e palestras na comunidade Android.
 
-## Technical Talks
-### User Interface
-- Custom Views
-- Animations
-- Navigation
+## Palestras técnicas
+### Interface
+- Motion Layout
 - Constraint Layout
 - Coordinator Layout
-- Ui Optimizing
-- Material Design: Concepts and development
-- MotinLayout
+- Views customizadas
+- Animações e transições
+- Otimização da UI
+- Experiência do usuário (UX)
 
-### Application Design
+### Design de aplicativos
 - Material Theme
 - Material Design
-- Guideline Updates (Bottom Bar, Bottom Sheet, etc)
-- Android UI/UX
-- Dos and Don'ts on Android Design
+- Atualização de guidelines de componentes (Bottom Bar, Bottom Sheet etc)
+- O que fazer e o que não é fazer no desing Android
+- Design Support Library
 
-### Software Quality
+### Qualidade de código
 - Android App Bundle
-- Unit Testing
-- UI Testing
-- Continuous Integration
+- Teste unitário
+- Teste de interfaces
+- Integração continua
 	- Travis
 	- Jenkins
 	- CircleCI
 	- Gitlab CI
-- Continuous Deployment
-- Dependency Injection (Dagger 2, Koin, Kodein)
-- Performance & Benchmarking Tools
-- Software Architecture
+- Implantação Contínua
+- Injeção de Dependência (Dagger 2, Koin, Kodein)
+- Ferramentas de Performance e Benchmarking
+- Arquitetura de software
 	- MVP
 	- MVVM
 	- MVC
-- Advanced concepts
+	- SOLID	
+- Conceitos avançados
 - Multidex
-- Improving code quality and reducing poor code
-- A/B Testing
-- Tools
+- Lint
+- Melhorando a qualidade do código e reduzindo o código deficiente
+- Testes A/B
+- Growth hacking
+- Demais ferramentas
 
 ### Android Core
-- Android Support Libraries
-- Permission and Security
-- Accessibility
-- Google Play Services APIs
-- Maps
-- Location 
-- Mobile Vision
-- Augmented reality 
+- Bibliotecas de suporte do Android
+- Permissão e Segurança
+- APIs do Google Play Service
+- Mapas
+- Localização
+- Realidade aumentada
 
-### Newest Android APIs
-- Support Libraries
+### Novas APIs do Android
+- Novidades da Support Libraries
 - Lifecycles
 - LiveData
 - Navigation
@@ -62,39 +62,40 @@ Repositório de temas para a criação de posts e talks na comunidade Android.
 - ViewModel
 - WorkManager
 - Slices
-- Animation & transitions
 - Emoji
 - Fragment
 - Palette
 - Notifications
 - ARCode
 - Fingerprints 
+- ML Kit
 
-### Reactive
+### Programação reativa
 - RxJava
 - RxAndroid
 
-### View-based App Development
-- Scoop 
-- Conductor
-- Magellan
-- Mortar/Flow
+### Acessibilidade
+- Do que fazer e o que não fazer
+- Frameworks
+- Exemplos e casos de sucesso
 
 ### Kotlin
 - Coroutines
-- Anko
 - DSL
 - Android KTX
 - Koin
 - Kodein
+- Qualidade de código (KTLint, Detekt etc)
+- Anko
 
 ### Flutter
-- How to use, etc
-- Difference 
-- Applying Firestore
-- Applying Material Design concepts
+- Como usar, como inciar etc
+- Diferenças de outras frameworks
+- Aplicando bibliotecas e frameworks (Firestore etc)
+- Aplicando conceitos de material design
+- Dicas e guidelines
 
-### Mobile platforms tools
+### Frameworks
 - Firebase
 - Fabric
 - Zeplin.io
@@ -102,63 +103,71 @@ Repositório de temas para a criação de posts e talks na comunidade Android.
 
 ### Android Studio
 - Live Templates
-- Layout Editor
-- Navigation Editor
-- APK Analyzer
+- Editor de layout
+- Editor do Navigation
+- Análise de APK
 - Memory/CPU profiling
 - Android Device Tool
-- Hierarchy View
-- Productivity and Plugins
-- Command line and external tools
-- Gradle tips
+- Hierarquia de views
+- Produtivdade e plugins
+- Linhas de comando e ferramentas externas
+- Gradles (dicas, truques etc)
 
-### Testing
-- Unit tests
-- Acceptance tests
-- Automation
-- Espresso (and all internal libraries, such as intents, web etc)
+### Testes
+- Testes unitários
+- Testes aceite
+- Espresso (e todas as bibliotecas internas de suporte)
+- Ferramentas de automação (como appium, calabash etc)
+- Mockito
 - UI Automator
-- Automation tools (such as appium, calabash etc)
-- Mockito new version
 - JUnit 5
 
-### Multimedia
-- Photo and Camera APIs
-- Audio APIs
-- Video APIs and related topics (Exoplayer, etc)
+### Multimídia
+- APIs de fotos e vídeos
+- APIs de áudio
+- APIs relacionadas (Exoplayer etc)
 
-### Android Platform
-- Auto
+### Plataforma Android
+- Android Auto
 - Wear SO
-- TV
+- Android TV
 
 ### IoT
-- IoT devices
-- Platforms
 - Android Things
+- Dispositivos IoT
+- Frameworks e bibliotecas
+- Dicas e guidelines
 
-### Game Development
-- How to use, etc 
-- Unity
+### Desenvolvimento de jogos
+- Como usar, como iníciar etc
+- Frameworks (Unity etc)
+- Dicas e guidelines
+
+### NDK e desenvolvimento Android nativo
+- Como usar, como iniciar etc
 - Frameworks
+- Dicas e guidelines
 
-### NDK and native Android development
-- How to use, etc 
+### Desenvolvimento de aplicativos View-based
+- Scoop 
+- Conductor
+- Magellan
+- Mortar/Flow
 
-## "Not-so-technical" Talks
-- Internationalization and Localization on Android
-- Women Techmakers
-- Career and personal development
-- Inspiring and impactful work on Android
-- Growth hacking, monetization, etc.
-- User engagement, push/targeting tactics, etc
-- Library design
-- Code privacy
-- How to define a minimum viable product
+## Talks "não tão técnico"
+- Internacionalização e localização no Android
+- Techmakers de mulheres
+- Carreira e desenvolvimento pessoal
+- Trabalho inspirador e impactante no Android
+- Monetização
+- Engajamento do usuário, segmentação, etc.
+- Design de biblioteca
+- Privacidade do código
+- Como definir um produto viável mínimo (MVP)
 
 
 
 ------------
 
-#### Tem uma sugestão? 
-Por favor acesse [androiddevbr.slack.org](http://androiddevbr.slack.org "androiddevbr.slack.org") e mande sua sugestão
+#### Tem uma sugestão?
+Por favor acesse [androiddevbr.slack.org] (http://androiddevbr.slack.org "androiddevbr.slack.org") e mande sua sugestão
