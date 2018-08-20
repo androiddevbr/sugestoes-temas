@@ -11,13 +11,14 @@ Repositório de temas para criação de posts e palestras na comunidade Android.
 - Animações e transições
 - Otimização da UI
 - Experiência do usuário (UX)
+- Guidelines, dicas e boas práticas
 
 ### Design de aplicativos
 - Material Theme
 - Material Design
-- Atualização de guidelines de componentes (Bottom Bar, Bottom Sheet etc)
-- O que fazer e o que não é fazer no desing Android
+- Atualização de guidelines de componentes (Bottom Bar, Bottom Sheet etc.)
 - Design Support Library
+- Guidelines, dicas e boas práticas
 
 ### Qualidade de código
 - Android App Bundle
@@ -29,7 +30,7 @@ Repositório de temas para criação de posts e palestras na comunidade Android.
 	- CircleCI
 	- Gitlab CI
 - Implantação Contínua
-- Injeção de Dependência (Dagger 2, Koin, Kodein)
+- Injeção de Dependência (Dagger 2, Koin, Kodein etc.)
 - Ferramentas de Performance e Benchmarking
 - Arquitetura de software
 	- MVP
@@ -39,10 +40,11 @@ Repositório de temas para criação de posts e palestras na comunidade Android.
 - Conceitos avançados
 - Multidex
 - Lint
-- Melhorando a qualidade do código e reduzindo o código deficiente
+- Ferramentas de melhoria de código (Checkstyle, findbugs, PMD etc.)
 - Testes A/B
 - Growth hacking
-- Demais ferramentas
+- Uso de anotações para geração de código
+- Guidelines, dicas e boas práticas
 
 ### Android Core
 - Bibliotecas de suporte do Android
@@ -50,7 +52,7 @@ Repositório de temas para criação de posts e palestras na comunidade Android.
 - APIs do Google Play Service
 - Mapas
 - Localização
-- Realidade aumentada
+- Conectividade
 
 ### Novas APIs do Android
 - Novidades da Support Libraries
@@ -73,27 +75,33 @@ Repositório de temas para criação de posts e palestras na comunidade Android.
 ### Programação reativa
 - RxJava
 - RxAndroid
+- Monad
+- Tratamento de erros e exceptions
+- Guidelines, dicas e boas práticas
 
 ### Acessibilidade
-- Do que fazer e o que não fazer
-- Frameworks
-- Exemplos e casos de sucesso
+- Frameworks 
+- Deixando o aplicativo mais acessível 
+- Construindo serviços acessiveis 
+- Constriundo CustomView acessiveis 
+- Testando a acessibilidade do seu aplicativo 
+- Casos de sucesso 
+- Guidelines, dicas e boas práticas 
 
 ### Kotlin
 - Coroutines
 - DSL
 - Android KTX
-- Koin
-- Kodein
-- Qualidade de código (KTLint, Detekt etc)
-- Anko
+- Bibliotecas feitas para Kotlin (Koin, Kodein, Anjo etc.)
+- Qualidade de código (KTLint, Detekt etc.)
+- Guidelines, dicas e boas práticas
 
 ### Flutter
 - Como usar, como inciar etc
 - Diferenças de outras frameworks
-- Aplicando bibliotecas e frameworks (Firestore etc)
+- Aplicando bibliotecas e frameworks (Firestore etc.)
 - Aplicando conceitos de material design
-- Dicas e guidelines
+- Guidelines, dicas e boas práticas
 
 ### Frameworks
 - Firebase
@@ -111,21 +119,22 @@ Repositório de temas para criação de posts e palestras na comunidade Android.
 - Hierarquia de views
 - Produtivdade e plugins
 - Linhas de comando e ferramentas externas
-- Gradles (dicas, truques etc)
+- Gradles (dicas, truques etc.)
 
 ### Testes
 - Testes unitários
 - Testes aceite
 - Espresso (e todas as bibliotecas internas de suporte)
-- Ferramentas de automação (como appium, calabash etc)
+- Ferramentas de automação (Appium, calabash etc.)
 - Mockito
 - UI Automator
 - JUnit 5
+- Guidelines, dicas e boas práticas
 
 ### Multimídia
 - APIs de fotos e vídeos
 - APIs de áudio
-- APIs relacionadas (Exoplayer etc)
+- APIs relacionadas (Exoplayer etc.)
 
 ### Plataforma Android
 - Android Auto
@@ -136,23 +145,17 @@ Repositório de temas para criação de posts e palestras na comunidade Android.
 - Android Things
 - Dispositivos IoT
 - Frameworks e bibliotecas
-- Dicas e guidelines
+- Guidelines, dicas e boas práticas
 
 ### Desenvolvimento de jogos
 - Como usar, como iníciar etc
-- Frameworks (Unity etc)
-- Dicas e guidelines
+- Frameworks (Unity etc.)
+- Guidelines, dicas e boas práticas
 
 ### NDK e desenvolvimento Android nativo
 - Como usar, como iniciar etc
 - Frameworks
-- Dicas e guidelines
-
-### Desenvolvimento de aplicativos View-based
-- Scoop 
-- Conductor
-- Magellan
-- Mortar/Flow
+- Guidelines, dicas e boas práticas
 
 ## Talks "não tão técnico"
 - Internacionalização e localização no Android
