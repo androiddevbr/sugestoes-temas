@@ -1,55 +1,195 @@
-# Repositório de tópicos técnicos da comunidade Android Dev BR
+# Sugestões de Temas - Agosto 2018
 
-Esse repositório aberto tem como objetivo coletar ideias e sugestões para artigos relacionados com a plataforma Android. 
+Repositório de temas para artigos e palestras na comunidade Android.
 
-### Quem pode utilizar essas ideias?
+## Palestras técnicas
+### Interface
+- Motion Layout
+- Constraint Layout
+- Coordinator Layout
+- Views customizadas
+- Animações e transições
+- Otimização da UI
+- Experiência do usuário (UX)
+- Guidelines, dicas e boas práticas
 
-Todos estão livres para utilizar qualquer uma das ideias abertas em forma de `issues` nesse próprio repositório. Esses artigos deverão ser postados na [página do Medium do Android Dev BR](https://medium.com/android-dev-br).
+### Design de aplicativos
+- Material Theme
+- Material Design
+- Atualização de guidelines de componentes (Bottom Bar, Bottom Sheet etc.)
+- Design Support Library
+- Guidelines, dicas e boas práticas
 
-Caso você não seja do Android Dev BR e queira utilizar uma dessas ideias, você também é livre para utiliza-las. Porém, pedimos que se junte a nós através desse [link](slack.androiddevbr.org) e submeta a publicação para a nossa página também. 
+### Qualidade de código
+- Android App Bundle
+- Teste unitário
+- Teste de interfaces
+- Integração continua
+	- Travis
+	- Jenkins
+	- CircleCI
+	- Gitlab CI
+- Implantação Contínua
+- Injeção de Dependência (Dagger 2, Koin, Kodein etc.)
+- Ferramentas de Performance e Benchmarking
+- Arquitetura de software
+	- MVP
+	- MVVM
+	- MVC
+	- SOLID	
+- Conceitos avançados
+- Multidex
+- Lint
+- Ferramentas de melhoria de código (Checkstyle, findbugs, PMD etc.)
+- Testes A/B
+- Growth hacking
+- Uso de anotações para geração de código
+- Guidelines, dicas e boas práticas
 
-### Como eu cadastro uma nova sugestão?
+### Android Core
+- Bibliotecas de suporte do Android
+- Permissão e Segurança
+- APIs do Google Play Service
+- Mapas
+- Localização
+- Conectividade
 
-Para cadastrar uma nova sugestão de post, basta você abrir um `issue` nesse repositório, seguindo o template. Esse template estará disponível no simples ato de criar a `issue`.
+### Novas APIs do Android
+- Novidades da Support Libraries
+- Lifecycles
+- LiveData
+- Navigation
+- Paging
+- Room
+- ViewModel
+- WorkManager
+- Slices
+- Emoji
+- Fragment
+- Palette
+- Notifications
+- ARCode
+- Fingerprints 
+- ML Kit
 
-Ao cadastrar a ideia, iremos curá-la (isso inclui adicionar `labels` adequadas) e sugerir modificações caso necessário.
+### Programação reativa
+- RxJava
+- RxAndroid
+- Monad
+- Tratamento de erros e exceptions
+- Guidelines, dicas e boas práticas
 
-### Como eu posso utilizar as ideias?
+### Acessibilidade
+- Frameworks 
+- Deixando o aplicativo mais acessível 
+- Construindo serviços acessiveis 
+- Constriundo CustomView acessiveis 
+- Testando a acessibilidade do seu aplicativo 
+- Casos de sucesso 
+- Guidelines, dicas e boas práticas 
 
-Dentro da `issue`, insira um comentário nos fornecendo um link da sua publicação. 
+### Kotlin
+- Coroutines
+- DSL
+- Android KTX
+- Bibliotecas feitas para Kotlin (Koin, Kodein, Anjo etc.)
+- Qualidade de código (KTLint, Detekt etc.)
+- Guidelines, dicas e boas práticas
 
-Ao passar o link, iremos adicionar uma `label` informando que aquele artigo já está sendo desenvolvido. Depois dessa etapa, iremos refinar o artigo junto com o autor para que seja publicado.
+### Flutter
+- Como usar, como inciar etc
+- Diferenças de outras frameworks
+- Aplicando bibliotecas e frameworks (Firestore etc.)
+- Aplicando conceitos de material design
+- Guidelines, dicas e boas práticas
 
-Uma vez publicado, iremos fechar a `issue`.
+### Frameworks
+- Firebase
+- Fabric
+- Zeplin.io
+- TensorFlow
 
-A `issue` **permanecerá aberta e disponível** durante todo o processo, até que ela seja finalizada e por fim o artigo publicado.
+### Android Studio
+- Live Templates
+- Editor de layout
+- Editor do Navigation
+- Análise de APK
+- Memory/CPU profiling
+- Android Device Tool
+- Hierarquia de views
+- Produtivdade e plugins
+- Linhas de comando e ferramentas externas
+- Gradles (dicas, truques etc.)
 
-### Como eu submeto a puplicação para o Android Dev BR?
+### Testes
+- Testes unitários
+- Testes aceite
+- Espresso (e todas as bibliotecas internas de suporte)
+- Ferramentas de automação (Appium, calabash etc.)
+- Mockito
+- UI Automator
+- JUnit 5
+- Guidelines, dicas e boas práticas
 
-Siga as intruções detalhadas no `READ.me` no repositório https://github.com/androiddevbr/agenda-medium.
+### Multimídia
+- APIs de fotos e vídeos
+- APIs de áudio
+- APIs relacionadas (Exoplayer etc.)
+
+### Plataforma Android
+- Android Auto
+- Wear SO
+- Android TV
+
+### IoT
+- Android Things
+- Dispositivos IoT
+- Frameworks e bibliotecas
+- Guidelines, dicas e boas práticas
+
+### Desenvolvimento de jogos
+- Como usar, como iníciar etc
+- Frameworks (Unity etc.)
+- Guidelines, dicas e boas práticas
+
+### NDK e desenvolvimento Android nativo
+- Como usar, como iniciar etc
+- Frameworks
+- Guidelines, dicas e boas práticas
+
+## Talks "não tão técnico"
+- Internacionalização e localização no Android
+- Techmakers de mulheres
+- Carreira e desenvolvimento pessoal
+- Trabalho inspirador e impactante no Android
+- Monetização
+- Engajamento do usuário, segmentação, etc.
+- Design de biblioteca
+- Privacidade do código
+- Como definir um produto viável mínimo (MVP)
 
 
-### Caso eu queira redigir um artigo que já está sendo desenvolvido, como proceder?
+------------
 
-Nesse caso, pedimos que entre em contato dentro da própria `issue` informando ao autor o seu interesse de ajuda-lo. Caso o autor aceite sua sugestão, você poderá ser o co-autor do artigo.
+### Como fazer Pull Request de uma sugestão?
+- Faça um fork, baixe ou clone o repositório `https://github.com/androiddevbr/sugestoes-temas.git`.
+- Adicione a referência de sugestão no arquivo [`readme`](https://github.com/androiddevbr/sugestoes-temas/blob/master/README.md), respeitando a divisão já estabelecida.
+- Faça o Pull Request.
 
-### Boas práticas
+**Obrigado pela contribuição!** :tada:
 
-- É interessante fornecer todas as informações necessárias para outra pessoa conseguir elaborar o artigo. Colete outros posts, referências, vídeos e documentação para enriquecer o artigo.
+<br>
 
-Exemplo:
+------------
 
-```
-Título: Fragments no Android.
-Conteúdo: Esse artigo tem como foco explorar a utilização de Fragments, mostrando boas e más práticas na hora da sua implementação.
-Links: [Título detalhado do artigo 1](www.linkartigo1.com), [Título detalhado do artigo 2](www.linkartigo2.com), [Link para a documentação](www.linkdocumentacao.com), [Vídeo com título detalhado](www.video.com).
-Nível: Iniciante/Intermediário/Avançado
-```
+### Contato
+Para desenvolvedores que acharam a iniciativa interessante e quiserem se juntar e conhecer a comunidade de desenvolvedores Android brasileira, se cadastre no [Slack do AndroidDevBr](http://androiddevbr.slack.org "androiddevbr.slack.org").
 
-- Evite cadastrar sugestões duplicadas. Antes de criar a `issue`, utilize a caixa de pesquisa do próprio GitHub para visualizar ambas as `issues` **abertas** e **fechadas**. 
+Siga-nos no [![alt text][1.1]][1][![alt text][2.1]][2]
 
-## Dúvidas e sugestões
+[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/9I6NRUm.png (github icon with padding)
 
-Esse repositório é aberto e comunitário. Caso você tenha alguma sugestão de modificação, entre em contato com os mantenedores do projeto ou submeta um pull request com a sugestão de ajuste ou comentário.
 
-Todas as sugestões são bem vindas!
+[1]: http://www.twitter.com/AndroidDevBrOrg
+[2]: https://github.com/androiddevbr
