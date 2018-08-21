@@ -92,6 +92,7 @@ Repositório de temas para artigos e palestras na comunidade Android.
 - Android KTX
 - Bibliotecas feitas para Kotlin (Koin, Kodein, Anjo etc.)
 - Qualidade de código (KTLint, Detekt etc.)
+- Como adotar a linguagem
 - Guidelines, dicas e boas práticas
 
 ### Flutter
