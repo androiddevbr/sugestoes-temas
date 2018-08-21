@@ -22,8 +22,6 @@ Repositório de temas para artigos e palestras na comunidade Android.
 
 ### Qualidade de código
 - Android App Bundle
-- Teste unitário
-- Teste de interfaces
 - Integração continua
 	- Travis
 	- Jenkins
@@ -94,6 +92,7 @@ Repositório de temas para artigos e palestras na comunidade Android.
 - Android KTX
 - Bibliotecas feitas para Kotlin (Koin, Kodein, Anjo etc.)
 - Qualidade de código (KTLint, Detekt etc.)
+- Como adotar a linguagem
 - Guidelines, dicas e boas práticas
 
 ### Flutter
@@ -123,12 +122,15 @@ Repositório de temas para artigos e palestras na comunidade Android.
 
 ### Testes
 - Testes unitários
-- Testes aceite
+- Testes Instrumentados
+- Testes aceitação
 - Espresso (e todas as bibliotecas internas de suporte)
 - Ferramentas de automação (Appium, calabash etc.)
 - Mockito
 - UI Automator
 - JUnit 5
+- Mockk
+- Spek Framework
 - Guidelines, dicas e boas práticas
 
 ### Multimídia
