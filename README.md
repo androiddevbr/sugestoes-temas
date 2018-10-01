@@ -2,6 +2,8 @@
 
 Repositório de temas para artigos e palestras na comunidade Android.
 
+:flag-uk: English version [here](https://github.com/androiddevbr/sugestoes-temas/blob/master/README-en.md)
+
 ## Palestras técnicas
 ### Interface
 - Motion Layout
@@ -90,7 +92,7 @@ Repositório de temas para artigos e palestras na comunidade Android.
 - Coroutines
 - DSL
 - Android KTX
-- Bibliotecas feitas para Kotlin (Koin, Kodein, Anjo etc.)
+- Bibliotecas feitas para Kotlin (Koin, Kodein, Anko etc.)
 - Qualidade de código (KTLint, Detekt etc.)
 - Como adotar a linguagem
 - Guidelines, dicas e boas práticas
