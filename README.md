@@ -1,4 +1,4 @@
-# Sugestões de Temas - Agosto 2018
+# Sugestões de Temas - Outubro 2018
 
 Repositório de temas para artigos e palestras na comunidade Android.
 
@@ -185,7 +185,7 @@ Repositório de temas para artigos e palestras na comunidade Android.
 ------------
 
 ### Contato
-Para desenvolvedores que acharam a iniciativa interessante e quiserem se juntar e conhecer a comunidade de desenvolvedores Android brasileira, se cadastre no [Slack do AndroidDevBr](http://androiddevbr.slack.org "androiddevbr.slack.org").
+Para desenvolvedores que acharam a iniciativa interessante e quiserem se juntar e conhecer a comunidade de desenvolvedores Android brasileira, se cadastre no [Slack do AndroidDevBr](http://androiddevbr.slack.com "androiddevbr.slack.com").
 
 Siga-nos no [![alt text][1.1]][1][![alt text][2.1]][2]
 
