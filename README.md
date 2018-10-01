@@ -1,4 +1,4 @@
-# Sugestões de Temas - Agosto 2018
+# Sugestões de Temas - Outubro 2018
 
 Repositório de temas para artigos e palestras na comunidade Android.
 
