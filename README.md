@@ -2,7 +2,7 @@
 
 Repositório de temas para artigos e palestras na comunidade Android.
 
-:flag-gb: English version [here](https://github.com/androiddevbr/sugestoes-temas/blob/master/README-en.md)
+ :tw-1f1ec-1f1e7: English version [here](https://github.com/androiddevbr/sugestoes-temas/blob/master/README-en.md)
 
 ## Palestras técnicas
 ### Interface
