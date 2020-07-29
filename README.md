@@ -1,6 +1,6 @@
-# Sugestões de Temas - Outubro 2018
+# Sugestões de Temas - Julho 2020
 
-Repositório de temas para artigos e palestras na comunidade Android.
+Repositório de sugestões para temas para talks, posts, podcasts, vídeos e/ou qualquer outro conteúdo voltado Android.
 
 English version [here](https://github.com/androiddevbr/sugestoes-temas/blob/master/README-en.md)
 
@@ -8,7 +8,6 @@ English version [here](https://github.com/androiddevbr/sugestoes-temas/blob/mast
 ### Interface
 - Motion Layout
 - Constraint Layout
-- Coordinator Layout
 - Views customizadas
 - Animações e transições
 - Otimização da UI
@@ -24,30 +23,21 @@ English version [here](https://github.com/androiddevbr/sugestoes-temas/blob/mast
 
 ### Qualidade de código
 - Android App Bundle
-- Integração continua
-	- Travis
-	- Jenkins
-	- CircleCI
-	- Gitlab CI
-- Implantação Contínua
-- Injeção de Dependência (Dagger 2, Koin, Kodein etc.)
-- Ferramentas de Performance e Benchmarking
-- Arquitetura de software
-	- MVP
-	- MVVM
-	- MVC
-	- SOLID	
+- Integração continua (Travis, CircleCI, Bitrise etc.)
+- Ferramentas usadas em CI (Fastlane, Danger, Sonarqube etc.)
+- Injeção de Dependência (Hilt, Dagger 2, Koin, Kodein etc.)
+- Arquitetura de software (MVP, MVVM, MVI etc.)
+- Ferramentas de melhoria de código (Detekt, KTLint, Lint etc.)
 - Conceitos avançados
 - Multidex
-- Lint
-- Ferramentas de melhoria de código (Checkstyle, findbugs, PMD etc.)
+- Ferramentas de Performance e Benchmarking
 - Testes A/B
 - Growth hacking
 - Uso de anotações para geração de código
 - Guidelines, dicas e boas práticas
 
 ### Android Core
-- Bibliotecas de suporte do Android
+- Android X
 - Permissão e Segurança
 - APIs do Google Play Service
 - Mapas
@@ -55,7 +45,7 @@ English version [here](https://github.com/androiddevbr/sugestoes-temas/blob/mast
 - Conectividade
 
 ### Novas APIs do Android
-- Novidades da Support Libraries
+- Novidades do JetPack
 - Lifecycles
 - LiveData
 - Navigation
@@ -63,14 +53,19 @@ English version [here](https://github.com/androiddevbr/sugestoes-temas/blob/mast
 - Room
 - ViewModel
 - WorkManager
-- Slices
-- Emoji
 - Fragment
-- Palette
-- Notifications
 - ARCode
-- Fingerprints 
 - ML Kit
+
+### Kotlin
+- Novidades do Kotlin
+- Coroutines
+- Flow
+- DSL
+- Android KTX
+- Bibliotecas feitas para Kotlin (MockK, Coil etc.)
+- Como adotar a linguagem
+- Guidelines, dicas e boas práticas
 
 ### Programação reativa
 - RxJava
@@ -83,22 +78,13 @@ English version [here](https://github.com/androiddevbr/sugestoes-temas/blob/mast
 - Frameworks 
 - Deixando o aplicativo mais acessível 
 - Construindo serviços acessiveis 
-- Constriundo CustomView acessiveis 
+- Constriundo Custom View acessiveis 
 - Testando a acessibilidade do seu aplicativo 
 - Casos de sucesso 
 - Guidelines, dicas e boas práticas 
 
-### Kotlin
-- Coroutines
-- DSL
-- Android KTX
-- Bibliotecas feitas para Kotlin (Koin, Kodein, Anko etc.)
-- Qualidade de código (KTLint, Detekt etc.)
-- Como adotar a linguagem
-- Guidelines, dicas e boas práticas
-
 ### Flutter
-- Como usar, como inciar etc
+- Como usar, como inciar etc.
 - Diferenças de outras frameworks
 - Aplicando bibliotecas e frameworks (Firestore etc.)
 - Aplicando conceitos de material design
@@ -109,6 +95,7 @@ English version [here](https://github.com/androiddevbr/sugestoes-temas/blob/mast
 - Fabric
 - Zeplin.io
 - TensorFlow
+- Figma
 
 ### Android Studio
 - Live Templates
@@ -120,7 +107,7 @@ English version [here](https://github.com/androiddevbr/sugestoes-temas/blob/mast
 - Hierarquia de views
 - Produtivdade e plugins
 - Linhas de comando e ferramentas externas
-- Gradles (dicas, truques etc.)
+- Gradlew (dicas, truques, performance etc.)
 
 ### Testes
 - Testes unitários
@@ -128,11 +115,7 @@ English version [here](https://github.com/androiddevbr/sugestoes-temas/blob/mast
 - Testes aceitação
 - Espresso (e todas as bibliotecas internas de suporte)
 - Ferramentas de automação (Appium, calabash etc.)
-- Mockito
-- UI Automator
-- JUnit 5
-- Mockk
-- Spek Framework
+- Ferramentas usadas em testes (Mockito, JUnit 5, Spek etc.)
 - Guidelines, dicas e boas práticas
 
 ### Multimídia
@@ -172,10 +155,9 @@ English version [here](https://github.com/androiddevbr/sugestoes-temas/blob/mast
 - Privacidade do código
 - Como definir um produto viável mínimo (MVP)
 
-
 ------------
 
-### Como fazer Pull Request de uma sugestão?
+### Como contribuir?
 - Faça um fork, baixe ou clone o repositório `https://github.com/androiddevbr/sugestoes-temas.git`.
 - Adicione a referência de sugestão no arquivo [`readme`](https://github.com/androiddevbr/sugestoes-temas/blob/master/README.md), respeitando a divisão já estabelecida.
 - Faça o Pull Request.
