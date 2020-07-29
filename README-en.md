@@ -1,6 +1,6 @@
 # Topic Suggestions - October 2018
 
-Theme repository for articles and talks in the Android community.
+Repository of suggestions for topics for talks, posts, podcasts, videos and/or any other content focused on Android.
 
 ## Technical Lectures
 ### Interface
@@ -22,30 +22,20 @@ Theme repository for articles and talks in the Android community.
 
 ### Code Quality
 - Android App Bundle
-- Continuous integration
-    - Travis
-    - Jenkins
-    - CircleCI
-    - Gitlab CI
-- Continuous Deployment
-- Dependency injection (Dagger 2, Koin, Kodein etc.)
-- Performance and Benchmarking Tools
-- Software Architecture
-    - MVP
-    - MVVM
-    - MVC
-    - SOLID
+- Continuous integration (Travis, CircleCI, Bitrise etc.)
+- Travis - Tools used in CI (Fastlane, Danger, Sonarqube etc.)
+- Jenkins - Dependency Injection (Hilt, Dagger 2, Koin, Kodein etc.)
+- CircleCI - Software architecture (MVP, MVVM, MVI etc.)
+- Gitlab CI - Code improvement tools (Detekt, KTLint, Lint etc.)
 - Advanced Concepts
 - Multidex
-- Lint
-- Code improvement tools (Checkstyle, findbugs, PMD etc.)
 - A / B Testing
 - Growth hacking
 - Using annotations for code generation
 - Guidelines, tips and good practices
 
 ### Android Core
-- Android Support Libraries
+- Android X
 - Permission and Security
 - Google Play Service APIs
 - Maps
@@ -53,7 +43,7 @@ Theme repository for articles and talks in the Android community.
 - Connectivity
 
 ### New Android APIs
-- News about Support Libraries
+- News about Android X
 - Lifecycles
 - LiveData
 - Navigation
@@ -61,14 +51,19 @@ Theme repository for articles and talks in the Android community.
 - Room
 - ViewModel
 - WorkManager
-- Slices
-- Emoji
 - Fragment
-- Palette
-- Notifications
 - ARCode
-- Fingerprints
 - ML Kit
+
+### Kotlin
+- News about Kotlin updates 
+- Coroutines
+- Flow
+- DSL
+- Android KTX
+- Libraries made for Kotlin (MockK, Coil etc.)
+- How to adopt the language
+- Guidelines, tips and good practices
 
 ### Reactive programming
 - RxJava
@@ -81,18 +76,9 @@ Theme repository for articles and talks in the Android community.
 - Frameworks
 - Making apps more accessible
 - Building accessible Services
-- Constancia CustomView accesible
+- Constancia Custom View accesible
 - Testing the accessibility of your application
 - Success case
-- Guidelines, tips and good practices
-
-### Kotlin
-- Coroutines
-- DSL
-- Android KTX
-- Libraries made for Kotlin (Koin, Kodein, Anko etc.)
-- Code quality (KTLint, Detekt etc.)
-- How to adopt the language
 - Guidelines, tips and good practices
 
 ### Flutter
@@ -118,7 +104,7 @@ Theme repository for articles and talks in the Android community.
 - View hierarchy
 - Productivity and plugins
 - Control lines and external tools
-- Gradles (tips, tricks, etc.)
+- Gradlew (tips, tricks, performance, etc.)
 
 ### Tests
 - Unitary tests
@@ -126,11 +112,7 @@ Theme repository for articles and talks in the Android community.
 - Acceptance tests
 - Espresso (and all internal support libraries)
 - Automation tools (Appium, calabash etc.)
-- Mockito
-- UI Automator
-- JUnit 5
-- Mockk
-- Spek Framework
+- Testing tools (Mockito, JUnit 5, Spek, etc.)
 - Guidelines, tips and good practices
 
 ### Multimedia
