@@ -107,7 +107,7 @@ English version [here](https://github.com/androiddevbr/sugestoes-temas/blob/mast
 - Hierarquia de views
 - Produtivdade e plugins
 - Linhas de comando e ferramentas externas
-- Gradlew (dicas, truques, performance etc.)
+- Gradle (dicas, truques, performance etc.)
 
 ### Testes
 - Testes unitários

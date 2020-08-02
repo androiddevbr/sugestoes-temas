@@ -104,7 +104,7 @@ Repository of suggestions for topics for talks, posts, podcasts, videos and/or a
 - View hierarchy
 - Productivity and plugins
 - Control lines and external tools
-- Gradlew (tips, tricks, performance, etc.)
+- Gradle (tips, tricks, performance, etc.)
 
 ### Tests
 - Unitary tests
