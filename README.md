@@ -2,8 +2,6 @@
 
 Repositório de sugestões para temas para talks, posts, podcasts, vídeos e/ou qualquer outro conteúdo voltado Android.
 
-English version [here](https://github.com/androiddevbr/sugestoes-temas/blob/master/README-en.md)
-
 ## Palestras técnicas
 ### Interface
 - Motion Layout
