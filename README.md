@@ -1,6 +1,6 @@
 # Sugestões de Temas - Agosto 2020
 
-Repositório de sugestões para temas para talks, posts, podcasts, vídeos e/ou qualquer outro conteúdo voltado Android. 
+Repositório de sugestões de temas para talks, posts, podcasts, vídeos e/ou qualquer outro conteúdo voltado Android. 
 
 ## Como requisitar conteúdo?
 
