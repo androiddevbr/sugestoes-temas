@@ -1,8 +1,28 @@
-# Sugestões de Temas - Julho 2020
+# Sugestões de Temas - Agosto 2020
 
-Repositório de sugestões para temas para talks, posts, podcasts, vídeos e/ou qualquer outro conteúdo voltado Android.
+Repositório de sugestões para temas para talks, posts, podcasts, vídeos e/ou qualquer outro conteúdo voltado Android. 
 
-## Palestras técnicas
+## Como requisitar conteúdo?
+
+Submeta um [novo issue](https://github.com/androiddevbr/sugestoes-temas/issues/new?assignees=orafaaraujo&labels=Backlog&template=tema-sugerido.md&title=) colocando como título o tema que gostaria de sugerir. Por exemplo:
+
+    Novidades do Android 11
+
+A descrição do issue tem um template, que deve ser preenchido com informações necessárias para dar contexto ao requerimento, como no exemplo abaixo:
+
+    Tema sugerido: Novidades do Android 11
+    Descrição: No Android 11 teremos mudanças em APIs importantes, acho válido termos conteúdos sobre isso.
+    Plataforma: Podcast, Medium, YouTube etc.
+    Indicação de participante: José da Silva @josedasilva
+    Mais informações: Aqui tem um link de um vídeo que fala sobre o assunto.
+
+
+------------
+
+
+## Sugestões de temas
+Lista de sugestões de temas para criação de contéudos.
+
 ### Interface
 - Motion Layout
 - Constraint Layout
@@ -155,25 +175,20 @@ Repositório de sugestões para temas para talks, posts, podcasts, vídeos e/ou 
 
 ------------
 
+
 ### Como contribuir?
-- Faça um fork, baixe ou clone o repositório `https://github.com/androiddevbr/sugestoes-temas.git`.
+Ajude-nos a manter nossa lista de temas atualizadas.
+
+- Clone o repositório `https://github.com/androiddevbr/sugestoes-temas.git`.
 - Adicione a referência de sugestão no arquivo [`readme`](https://github.com/androiddevbr/sugestoes-temas/blob/master/README.md), respeitando a divisão já estabelecida.
 - Faça o Pull Request.
 
 **Obrigado pela contribuição!** :tada:
 
-<br>
 
 ------------
 
 ### Contato
-Para desenvolvedores que acharam a iniciativa interessante e quiserem se juntar e conhecer a comunidade de desenvolvedores Android brasileira, se cadastre no [Slack do AndroidDevBr](http://slack.androiddevbr.org/).
+Caso ainda não faça parte da maior comunidade brasileira de desenvolvedoras e desenvolvedores Android, se cadastre no [Slack do AndroidDevBr](http://slack.androiddevbr.org/).
 
-Siga-nos no [![alt text][1.1]][1][![alt text][2.1]][2]
-
-[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/9I6NRUm.png (github icon with padding)
-
-
-[1]: http://www.twitter.com/AndroidDevBrOrg
-[2]: https://github.com/androiddevbr
+Siga-nos no [@androidDevBrOrg](http://www.twitter.com/AndroidDevBrOrg)
