@@ -16,9 +16,7 @@ A descrição do issue tem um template, que deve ser preenchido com informaçõe
     Indicação de participante: José da Silva @josedasilva
     Mais informações: Aqui tem um link de um vídeo que fala sobre o assunto.
 
-
 ------------
-
 
 ## Sugestões de temas
 Lista de sugestões de temas para criação de contéudos.
@@ -183,7 +181,7 @@ Ajude-nos a manter nossa lista de temas atualizadas.
 - Adicione a referência de sugestão no arquivo [`readme`](https://github.com/androiddevbr/sugestoes-temas/blob/master/README.md), respeitando a divisão já estabelecida.
 - Faça o Pull Request.
 
-**Obrigado pela contribuição!** :tada:
+**Agradecemos pela contribuição!** :tada:
 
 
 ------------
