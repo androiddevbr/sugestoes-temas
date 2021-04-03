@@ -1,4 +1,4 @@
-# Sugestões de Temas - Agosto 2020
+# Sugestões de Temas
 
 Repositório de sugestões de temas para talks, posts, podcasts, vídeos e/ou qualquer outro conteúdo voltado Android. 
 
